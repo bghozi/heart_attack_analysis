@@ -135,6 +135,6 @@ Menurunkan threshold meningkatkan recall, yang penting dalam skenario medis agar
 
 # 👤 Author
 
-Your Name  
+## Bakhtiyar Ghozi  
 Aspiring Data Scientist  
-GitHub: yourusername
+GitHub: @bghozi
