@@ -2,7 +2,7 @@
 
 ---
 
-## GB Project Overview (English)
+## 🇬🇧 Project Overview (English)
 
 This project aims to build a classification model to predict heart disease using machine learning techniques.
 
